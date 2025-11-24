@@ -1,4 +1,4 @@
 package Carpinteria.Model;
 
-public class login {
+public class Login {
 }
